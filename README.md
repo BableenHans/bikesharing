@@ -40,5 +40,7 @@ The graph shows that the Male subscribers tend to use the citiBike the most duri
 
 # Summary
 The analysis shows that for the bike share program to work in another location, the subscription method would have to continue. As more users use the bikes through subscription method. 
-Additional visualizations that can help the analysis further would be if we would look into 
+Additional visualizations that can help the analysis further the success of a similar platform in differnt city
+- Other busy means of transporatation: look into city bus service and their busy times, taxy services and their busy times. This would help analyse the need for city bike stands through the city. Additionally, would also give us a way to look into understanding untapped areas within the city with other modes of transportation.
+- Bike routes and their current usage: This would allow us to connect with city, if more bike routes need to be constructed within the city. 
 
