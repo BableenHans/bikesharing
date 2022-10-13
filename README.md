@@ -7,6 +7,8 @@ Following main categories were reviewed in the analysis:
 - Show the number of bike trips for all riders and genders for each hour of each day of the week 
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
+Bikesharing Tableau Story link: https://public.tableau.com/views/BikesharingChallenge_16656206646170/BikesharingStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 # Results:
 ## Bike Utilization (from Module)
 ![Bike Utilization- from Module](https://user-images.githubusercontent.com/103918169/195510671-3eaea0ff-057c-4aaa-b3e9-378726a981d2.png)
